@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Baptiste Chacun</h1>
-<h3 align="center">A French engineer IMT Atlantique</h3>
+<h3 align="center">A French student engineer IMT Atlantique</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bchacun&label=Profile%20views&color=0e75b6&style=flat" alt="bchacun" /> </p>
 
